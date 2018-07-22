@@ -1,0 +1,24 @@
+{
+  "name": "recast-sd",
+  "version": "1.0.0",
+  "description": "1. git clone https://github.com/mfunaki/recast-sd.git 2. cd recast-sd 3. npm init 4. npm install --save express body-parser axios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfunaki/recast-sd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mfunaki/recast-sd/issues"
+  },
+  "homepage": "https://github.com/mfunaki/recast-sd#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}

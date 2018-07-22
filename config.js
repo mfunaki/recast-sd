@@ -1,0 +1,5 @@
+module.exports = {
+  PORT: 5000,
+  BASIC_AUTH_API_USERNAME: 'I053832_01',
+  BASIC_AUTH_API_PASSWORD: 'S@pjapan1',
+};
